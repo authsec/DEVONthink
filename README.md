@@ -1,0 +1,2 @@
+# DEVONthink
+DEVONthink helper scripts
