@@ -1,4 +1,4 @@
-# PDF Write Protection Removal
+# Remove PDF Write Protection
 
 This script removes PDF write protection. This is especially useful if you are
 dealing with PDFs that you want to annotate, but are forced to copy, since the
