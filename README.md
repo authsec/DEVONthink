@@ -9,4 +9,4 @@ location of your choice inside that folder.
 If you have DEVONthink Pro, you can open the scripts folder by clicking on
 the following icon in your menu bar.
 
-![Image of scripts folder](files/scripts-folder)
+![Image of scripts folder](./files/scripts-folder.png)
